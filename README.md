@@ -1,9 +1,11 @@
-<h1>FreeCodeCamp Project 2</h1>
+<h1>Tribute Page</h1>
 
 <h2>Description</h2>
 This is one of the required projects to earn my Responsive Web Design certification from freeCodeCamp. For this project, For this project, I built a tribute page for a subject of my choosing, fictional or real.
 <br />
 
+<h2>Hosted Page Link</h2>
+https://tribute-page.esther-annann.repl.co
 
 <h2>Languages and Utilities Used</h2>
 
