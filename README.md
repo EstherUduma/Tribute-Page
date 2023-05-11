@@ -5,7 +5,7 @@ This is one of the required projects to earn my Responsive Web Design certificat
 <br />
 
 <h2>Hosted Page Link</h2>
-https://tribute-page.esther-annann.repl.co
+https://estheruduma.github.io/Tribute-Page/
 
 <h2>Languages and Utilities Used</h2>
 
